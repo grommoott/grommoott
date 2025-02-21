@@ -10,4 +10,4 @@
  - [to-did](https://github.com/grommoott/to-did) — небольшое приложение для создания и изменения списка дел
  - [greeapi-testwork](https://github.com/grommoott/greenapi-testwork) — тестовое задание для компании GreenApi, представляет собой frontend для отправки сообщений по WhatsApp через GreenApi
 
-Так как сейчас активно ищу работу, то, если сейчас ищете frontend-разработчика, то можете писать мне на Telegram(@grommoott)
+Так как сейчас активно ищу работу, то, если сейчас вам нужен frontend-разработчика, то можете писать мне на Telegram(@grommoott)
