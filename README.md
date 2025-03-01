@@ -9,5 +9,6 @@
  - [ty-breadish](https://github.com/grommoott/ty-breadish) и [ty-breadish-backend](https://github.com/grommoott/ty-breadish-backend) — frontend и backend соответственно сайта для вымышленной пекарни "Ty Breadish!", сайт включает в себя интернет магазин, ленту новостей и книгу рецептов, там есть также много других интересных фич, если хотите подробнее ознакомиться, то переходите по ссылке, ведущей в репозиторий frontend'а
  - [to-did](https://github.com/grommoott/to-did) — небольшое приложение для создания и изменения списка дел
  - [greeapi-testwork](https://github.com/grommoott/greenapi-testwork) — тестовое задание для компании GreenApi, представляет собой frontend для отправки сообщений по WhatsApp через GreenApi
+ - [cck-shortify](https://github.com/grommoott/cck-shortify) - сокращатель ссылок на Nest.js + React с удобной упаковкой в Docker Compose, делал как тестовое задание для компании 3205.team
 
 Так как сейчас активно ищу работу, то, если сейчас вам нужен frontend-разработчик, то можете писать мне на Telegram(@grommoott)
